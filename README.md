@@ -1,2 +1,2 @@
 # JavaServerMinecraft
-serve de minecraft, local host via Ngrok
+serve for minecraft, local host via Ngrok, https://dashboard.ngrok.com.
