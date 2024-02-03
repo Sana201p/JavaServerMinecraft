@@ -1,2 +1,2 @@
 # JavaServerMinecraft
-serve for minecraft, local host via Ngrok, https://dashboard.ngrok.com.
+serve for minecraft, local host via Ngrok, you need a login https://dashboard.ngrok.com.
